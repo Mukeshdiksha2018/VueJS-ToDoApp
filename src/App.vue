@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <Todo/>
+    <h1>Home Page</h1>
+     <Todo></Todo>
   </div>
 </template>
 
